@@ -16,27 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 70d81dada93a2524dba487e9ca9ae776
-  m_SerializeEntries:
-  - m_GUID: 9e9a97fa10743de468e835b553974a09
-    m_Address: Assets/@Resources/Sprites/Object/Object_Firewood.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9456dad1f5957414ab37f3ac1e8f980e
-    m_Address: Assets/@Resources/Sprites/Object/Object_Meat.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 70c47d429c75ad8489dfb257e05d1640
-    m_Address: Assets/@Resources/Sprites/Object/Object_Mineral.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3a5e4b1bc5f22d243af02ab5bdf4d607
-    m_Address: Assets/@Resources/Prefabs/hero.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 08c280b00de36c8459ec6d718d11de79, type: 2}
   m_SchemaSet:
