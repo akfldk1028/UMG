@@ -10,21 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Spines
+  m_Name: Data
   m_EditorClassIdentifier: 
-  m_GroupName: Spines
+  m_GroupName: Data
   m_Data:
     m_SerializedData: []
-  m_GUID: 269be4946ebc1bb44b7d6bdfe8b7318e
+  m_GUID: 2ca7bf71eb5af3e4caf94b573c209475
   m_SerializeEntries:
-  - m_GUID: 47fa580edd880c749a479a92662f21a4
-    m_Address: wizard_SkeletonData
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1e308705ac9a774499fb319ab993deb4
-    m_Address: knight_SkeletonData
+  - m_GUID: 5d418efd81401c249a291b8bc2c6c6d4
+    m_Address: TestData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
@@ -33,5 +27,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: 08c280b00de36c8459ec6d718d11de79, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 3765de7c6b2c58b40a6443914284e878, type: 2}
-    - {fileID: 11400000, guid: b7a799ef244d7fe4eada146eb2753488, type: 2}
+    - {fileID: 11400000, guid: 1ddda12558f1e8e4cac76cba5cd5f428, type: 2}
+    - {fileID: 11400000, guid: 1a5cc15133b860442b5e2892ff933721, type: 2}
